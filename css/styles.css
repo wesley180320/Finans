@@ -14,9 +14,19 @@
 
 footer{
 
-    height: 3em;
+    padding: 20px;
     font-size: x-large;
     font-weight: bold;
     color: white;
+
+}
+
+#conteudo-principal img{
+    width: 100%;
+  }
+  @media (max-width: 768px){
+    #conteudo-principal .img-mulher{
+      display: none;
+    }
 
 }
