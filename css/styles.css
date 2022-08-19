@@ -1,0 +1,22 @@
+.cabecalho{
+
+    display: flex;
+    
+    
+}
+
+.navbar-nav li{
+
+     margin-left: 10px;
+     text-decoration: none;
+    
+}
+
+footer{
+
+    height: 3em;
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+
+}
